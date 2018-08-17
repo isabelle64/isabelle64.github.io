@@ -13,7 +13,7 @@ body {
 }
 
 body {
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Roboto Condensed";
     background: url(../img/Oculus.jpg) no-repeat center center scroll;
     background-attachment: fixed;
     background-size: 1500px 650px;
@@ -29,6 +29,9 @@ body .overlay {
     background-repeat: repeat;
 }
 
+h3 {
+   font-size: 20px;
+}
 .text-vertical-center {
     display: table-cell;
     text-align: center;
